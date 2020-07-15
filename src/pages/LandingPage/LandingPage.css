@@ -1,0 +1,11 @@
+.landing-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.sign-in-img {
+    background-repeat: no-repeat;
+    max-width: 500px;
+  }
