@@ -1,17 +1,18 @@
-import React, { Component } from 'react';
+import React, {Component } from 'react';
 import NavBar from '../../components/NavBar/NavBar';
+import './AddWorkoutPage.css';
 
-class HomePage extends Component {
+class AddWorkoutPage extends Component {
     render() {
         return(
             <div>
                 <header>
                     <NavBar />
                 </header>
-                <h1>This is the home page</h1>
+                <h1>This is the add workout page</h1>
             </div>
         )
     }
 }
 
-export default HomePage;
+export default AddWorkoutPage;
