@@ -2,7 +2,6 @@ const express = require('express');
 const path = require('path');
 const favicon = require('serve-favicon');
 const logger = require('morgan');
-const usersRoutes = require('./routes/users');
 
 const app = express();
 
@@ -15,10 +14,10 @@ app.use(express.json());
 app.use(favicon(path.join(__dirname, 'build', 'favicon.ico')));
 app.use(express.static(path.join(__dirname, 'build')));
 
-app.use(require('./config/auth'));
 
 // Put API routes here, before the "catch all" route
-app.use('/api/users', usersRoutes);
+app.use('/api/users', require('./routes/api/users'));
+app.use(require('./config/auth'));
 
 // The following "catch all" route (note the *)is necessary
 // for a SPA's client-side routing to properly work
