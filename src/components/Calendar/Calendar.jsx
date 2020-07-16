@@ -1,75 +1,33 @@
-import * as React from 'react';
-import { useState, useEffect } from 'react';
-import styled, { css } from 'styled-components';
+import React, { Component } from 'react';
+import dateFns from 'date-fns';
 
-const Frame = styled.div`
-    width: 400px;
-    border: 1px solid #131D47;
-    box-shadow: 2px 2px 2px #eee;
-`;
+class Calendar extends Component {
+    state = {
+        currentMonth: new Date(),
+        selectedDate: new Date()
+    };
 
-const Header = styled.div`
-    font-size: 18px;
-    font-weight: bold;
-    padding: 10px 10px 5px 10px;
-    display: flex;
-    justify-content: space-between;
-    background-color: #131D47;
-`;
+    renderHeader() {}
 
-const Button = Styled.div`
-    cursor: pointer;
-`;
+    renderDays() {}
 
-const Body = styled.div`
-    width: 100%;
-    display: flex;
-    flex-wrap: wrap;
-`;
+    renderCells() {}
 
-const Day = styled.div`
-  width: 14.2%;
-  height: 40px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  cursor: pointer;
+    onDateClick = day => {}
 
-  ${props =>
-        props.isToday &&
-        css`
-      border: 1px solid #eee;
-    `}
+    nextMonth = () => {}
 
-  ${props =>
-        props.isSelected &&
-        css`
-      background-color: #eee;
-    `}
-`;
+    prevMonth = () => {}
 
-export function Calendar() {
-    const Days = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
-    const DaysLeap = [31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
-    const DaysOfTheWeek = ['Mon', 'Tues', 'Wed', 'Thurs', 'Fri', 'Sat', 'Sun'];
-    const Months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
-
-    const today = new Date();
-    const [date, setDate] = useState(today);
-    const [day, setDay] = useState(date.getDate());
-    const [month, setMonth] = useState(date.getMonth());
-    const [year, setYear] = useState(date.getFullYear());
-    const [startDay, setStartDay] = useState(calculateStartDayOfMonth(date));
-
-    useEffect(() => {
-        setDay(date.getDate());
-        setMonth(date.getMonth());
-        setYear(date.getFullYear());
-        setStartDay(calculateStartDayOfMonth(date));
-    }, [date]);
-
-
-    return (
-        <div></div>
-    )
+    render() {
+        return(
+            <div>
+                {this.renderHeader()}
+                {this.renderDays()}
+                {this.}
+            </div>
+        )
+    }
 }
+
+export default Calendar;

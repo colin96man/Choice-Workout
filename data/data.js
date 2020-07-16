@@ -1,871 +1,3490 @@
-ab crunch machine, abdominals
-ab roller, abdominals
-adductor, adductors
-adductor/groin, adductors
-advanced kettlebell windmill, abdominals
-air bike, abdominals
-all fours quad stretch, quadriceps
-alternate hammer curl, biceps
-alternate heel touchers, abdominals
-alternate incline dumbbell curl, biceps
-alternate leg diagonal bound, quadriceps
-alternating cable shoulder press, shoulders
-alternating deltoid raise, shoulders
-alternating floor press, chest
-alternating hang clean, hamstrings
-alternating kettlebell press, shoulders
-alternating kettlebell row, middle back
-alternating renegade row, middle back
-ankle circles, calves
-ankle on the knee, glutes
-anterior tibialis-smr, calves
-anti-gravity press, shoulders
-arm circles, shoulders
-arnold dumbbell press, shoulders
-around the worlds, chest
-atlas stone trainer, lower back
-atlas stones, lower back
-axle deadlift, lower back
-back flyes - with bands, shoulders
-backward drag, quadriceps
-backward medicine ball throw, shoulders
-balance board, calves
-ball leg curl, hamstrings
-band assisted pull-up, lats
-band good morning, hamstrings
-band good morning (pull through), hamstrings
-band hip adductions, adductors
-band pull apart, shoulders
-band skull crusher, triceps
-barbell ab rollout, abdominals
-barbell ab rollout - on knees, abdominals
-barbell bench press - medium grip, chest
-barbell curl, biceps
-barbell curls lying against an incline, biceps
-barbell deadlift, lower back
-barbell full squat, quadriceps
-barbell glute bridge, glutes
-barbell guillotine bench press, chest
-barbell hack squat, quadriceps
-barbell hip thrust, glutes
-barbell incline bench press - medium grip, chest
-barbell incline shoulder raise, shoulders
-barbell lunge, quadriceps
-barbell rear delt row, shoulders
-barbell rollout from bench, abdominals
-barbell seated calf raise, calves
-barbell shoulder press, shoulders
-barbell shrug, traps
-barbell shrug behind the back, traps
-barbell side bend, abdominals
-barbell side split squat, quadriceps
-barbell squat, quadriceps
-barbell squat to a bench, quadriceps
-barbell step ups, quadriceps
-barbell walking lunge, quadriceps
-battling ropes, shoulders
-bear crawl sled drags, quadriceps
-behind head chest stretch, chest
-bench dips, triceps
-bench jump, quadriceps
-bench press - powerlifting, triceps
-bench press - with bands, chest
-bench press with chains, triceps
-bench sprint, quadriceps
-bent over barbell row, middle back
-bent over dumbbell rear delt raise with head on bench, shoulders
-bent over low-pulley side lateral, shoulders
-bent over one-arm long bar row, middle back
-bent over two-arm long bar row, middle back
-bent over two-dumbbell row, middle back
-bent over two-dumbbell row with palms in, middle back
-bent press, abdominals
-bent-arm barbell pullover, lats
-bent-arm dumbbell pullover, chest
-bent-knee hip raise, abdominals
-bicycling, quadriceps
-bicycling, stationary, quadriceps
-board press, triceps
-body tricep press, triceps
-body-up, triceps
-bodyweight flyes, chest
-bodyweight mid row, middle back
-bodyweight squat, quadriceps
-bodyweight walking lunge, quadriceps
-bosu ball cable crunch with side bends, abdominals
-bottoms up, abdominals
-bottoms-up clean from the hang position, forearms
-box jump (multiple response), hamstrings
-box skip, hamstrings
-box squat, quadriceps
-box squat with bands, quadriceps
-box squat with chains, quadriceps
-brachialis-smr, biceps
-bradford/rocky presses, shoulders
-butt lift (bridge), glutes
-butt-ups, abdominals
-butterfly, chest
-cable chest press, chest
-cable crossover, chest
-cable crunch, abdominals
-cable deadlifts, quadriceps
-cable hammer curls - rope attachment, biceps
-cable hip adduction, quadriceps
-cable incline pushdown, lats
-cable incline triceps extension, triceps
-cable internal rotation, shoulders
-cable iron cross, chest
-cable judo flip, abdominals
-cable lying triceps extension, triceps
-cable one arm tricep extension, triceps
-cable preacher curl, biceps
-cable rear delt fly, shoulders
-cable reverse crunch, abdominals
-cable rope overhead triceps extension, triceps
-cable rope rear-delt rows, shoulders
-cable russian twists, abdominals
-cable seated crunch, abdominals
-cable seated lateral raise, shoulders
-cable shoulder press, shoulders
-cable shrugs, traps
-cable tuck reverse crunch, abdominals
-cable wrist curl, forearms
-calf press, calves
-calf press on the leg press machine, calves
-calf raise on a dumbbell, calves
-calf raises - with bands, calves
-calf stretch elbows against wall, calves
-calf stretch hands against wall, calves
-calf-machine shoulder shrug, traps
-calves-smr, calves
-car deadlift, quadriceps
-car drivers, shoulders
-carioca quick step, adductors
-cat stretch, lower back
-catch and overhead throw, lats
-chain handle extension, triceps
-chain press, chest
-chair leg extended stretch, hamstrings
-chair lower back stretch, lats
-chair squat, quadriceps
-chair upper body stretch, shoulders
-chest and front of shoulder stretch, chest
-chest push (multiple response), chest
-chest push (single response), chest
-chest push from 3 point stance, chest
-chest push with run release, chest
-chest stretch on stability ball, chest
-child's pose, lower back
-chin to chest stretch, neck
-chin-up, lats
-circus bell, shoulders
-clean, hamstrings
-clean and jerk, shoulders
-clean and press, shoulders
-clean deadlift, hamstrings
-clean from blocks, quadriceps
-clean pull, quadriceps
-clean shrug, traps
-clock push-up, chest
-close-grip barbell bench press, triceps
-close-grip dumbbell press, triceps
-close-grip ez bar curl, biceps
-close-grip ez-bar curl with band, biceps
-close-grip ez-bar press, triceps
-close-grip front lat pulldown, lats
-close-grip push-up off of a dumbbell, triceps
-close-grip standing barbell curl, biceps
-cocoons, abdominals
-conan's wheel, quadriceps
-concentration curls, biceps
-cross body hammer curl, biceps
-cross over - with bands, chest
-cross-body crunch, abdominals
-crossover reverse lunge, lower back
-crucifix, shoulders
-crunch - hands overhead, abdominals
-crunch - legs on exercise ball, abdominals
-crunches, abdominals
-cuban press, shoulders
-dancer's stretch, lower back
-deadlift with bands, lower back
-deadlift with chains, lower back
-decline barbell bench press, chest
-decline close-grip bench to skull crusher, triceps
-decline crunch, abdominals
-decline dumbbell bench press, chest
-decline dumbbell flyes, chest
-decline dumbbell triceps extension, triceps
-decline ez bar triceps extension, triceps
-decline oblique crunch, abdominals
-decline push-up, chest
-decline reverse crunch, abdominals
-decline smith press, chest
-deficit deadlift, lower back
-depth jump leap, quadriceps
-dip machine, triceps
-dips - chest version, chest
-dips - triceps version, triceps
-donkey calf raises, calves
-double kettlebell alternating hang clean, hamstrings
-double kettlebell jerk, shoulders
-double kettlebell push press, shoulders
-double kettlebell snatch, shoulders
-double kettlebell windmill, abdominals
-double leg butt kick, quadriceps
-downward facing balance, glutes
-drag curl, biceps
-drop push, chest
-dumbbell alternate bicep curl, biceps
-dumbbell bench press, chest
-dumbbell bench press with neutral grip, chest
-dumbbell bicep curl, biceps
-dumbbell clean, hamstrings
-dumbbell floor press, triceps
-dumbbell flyes, chest
-dumbbell incline row, middle back
-dumbbell incline shoulder raise, shoulders
-dumbbell lunges, quadriceps
-dumbbell lying one-arm rear lateral raise, shoulders
-dumbbell lying pronation, forearms
-dumbbell lying rear lateral raise, shoulders
-dumbbell lying supination, forearms
-dumbbell one-arm shoulder press, shoulders
-dumbbell one-arm triceps extension, triceps
-dumbbell one-arm upright row, shoulders
-dumbbell prone incline curl, biceps
-dumbbell raise, shoulders
-dumbbell rear lunge, quadriceps
-dumbbell scaption, shoulders
-dumbbell seated box jump, quadriceps
-dumbbell seated one-leg calf raise, calves
-dumbbell shoulder press, shoulders
-dumbbell shrug, traps
-dumbbell side bend, abdominals
-dumbbell squat, quadriceps
-dumbbell squat to a bench, quadriceps
-dumbbell step ups, quadriceps
-dumbbell tricep extension -pronated grip, triceps
-dynamic back stretch, lats
-dynamic chest stretch, chest
-elbow circles, shoulders
-elbow to knee, abdominals
-elbows back, chest
-elevated back lunge, quadriceps
-elevated cable rows, lats
-elliptical trainer, quadriceps
-exercise ball crunch, abdominals
-exercise ball pull-in, abdominals
-extended range one-arm kettlebell floor press, chest
-external rotation, shoulders
-external rotation with band, shoulders
-external rotation with cable, shoulders
-ez-bar curl, biceps
-ez-bar skullcrusher, triceps
-face pull, shoulders
-farmer's walk, forearms
-fast skipping, quadriceps
-finger curls, forearms
-flat bench cable flyes, chest
-flat bench leg pull-in, abdominals
-flat bench lying leg raise, abdominals
-flexor incline dumbbell curls, biceps
-floor glute-ham raise, hamstrings
-floor press, triceps
-floor press with chains, triceps
-flutter kicks, glutes
-foot-smr, calves
-forward drag with press, chest
-frankenstein squat, quadriceps
-freehand jump squat, quadriceps
-frog hops, quadriceps
-frog sit-ups, abdominals
-front barbell squat, quadriceps
-front barbell squat to a bench, quadriceps
-front box jump, hamstrings
-front cable raise, shoulders
-front cone hops (or hurdle hops), quadriceps
-front dumbbell raise, shoulders
-front incline dumbbell raise, shoulders
-front leg raises, hamstrings
-front plate raise, shoulders
-front raise and pullover, chest
-front squat (clean grip), quadriceps
-front squats with two kettlebells, quadriceps
-front two-dumbbell raise, shoulders
-full range-of-motion lat pulldown, lats
-gironda sternum chins, lats
-glute ham raise, hamstrings
-glute kickback, glutes
-goblet squat, quadriceps
-good morning, hamstrings
-good morning off pins, hamstrings
-gorilla chin/crunch, abdominals
-groin and back stretch, adductors
-groiners, adductors
-hack squat, quadriceps
-hammer curls, biceps
-hammer grip incline db bench press, chest
-hamstring stretch, hamstrings
-hamstring-smr, hamstrings
-handstand push-ups, shoulders
-hang clean, quadriceps
-hang clean - below the knees, quadriceps
-hang snatch, hamstrings
-hang snatch - below knees, hamstrings
-hanging bar good morning, hamstrings
-hanging leg raise, abdominals
-hanging pike, abdominals
-heaving snatch balance, quadriceps
-heavy bag thrust, chest
-high cable curls, biceps
-hip circles (prone), abductors
-hip crossover,
-hip extension with bands, glutes
-hip flexion with band, quadriceps
-hip lift with band, glutes
-hug a ball, lower back
-hug knees to chest, lower back
-hurdle hops, hamstrings
-hyperextensions (back extensions), lower back
-hyperextensions with no hyperextension bench, lower back
-iliotibial tract-smr, abductors
-incline barbell triceps extension, triceps
-incline bench pull, middle back
-incline cable chest press, chest
-incline cable flye, chest
-incline dumbbell bench with palms facing in, chest
-incline dumbbell curl, biceps
-incline dumbbell flyes, chest
-incline dumbbell flyes - with a twist, chest
-incline dumbbell press, chest
-incline hammer curls, biceps
-incline inner biceps curl, biceps
-incline push-up, chest
-incline push-up close-grip, triceps
-incline push-up depth jump, chest
-incline push-up medium, chest
-incline push-up reverse grip, chest
-incline push-up wide, chest
-intermediate groin stretch, hamstrings
-intermediate hip flexor and quad stretch, quadriceps
-internal rotation with band, shoulders
-inverted row, middle back
-inverted row with straps, middle back
-iron cross, shoulders
-iron crosses (stretch), quadriceps
-isometric chest squeezes, chest
-isometric neck exercise - front and back, neck
-isometric neck exercise - sides, neck
-isometric wipers, chest
-it band and glute stretch, abductors
-jackknife sit-up, abdominals
-janda sit-up, abdominals
-jefferson squats, quadriceps
-jerk balance, shoulders
-jerk dip squat, quadriceps
-jm press, triceps
-jogging-treadmill, quadriceps
-keg load, lower back
-kettlebell arnold press, shoulders
-kettlebell dead clean, hamstrings
-kettlebell figure 8, abdominals
-kettlebell hang clean, hamstrings
-kettlebell one-legged deadlift, hamstrings
-kettlebell pass between the legs, abdominals
-kettlebell pirate ships, shoulders
-kettlebell pistol squat, quadriceps
-kettlebell seated press, shoulders
-kettlebell seesaw press, shoulders
-kettlebell sumo high pull, traps
-kettlebell thruster, shoulders
-kettlebell turkish get-up (lunge style), shoulders
-kettlebell turkish get-up (squat style), shoulders
-kettlebell windmill, abdominals
-kipping muscle up, lats
-knee across the body, glutes
-knee circles, calves
-knee tuck jump, hamstrings
-knee/hip raise on parallel bars, abdominals
-kneeling arm drill, shoulders
-kneeling cable crunch with alternating oblique twists, abdominals
-kneeling cable triceps extension, triceps
-kneeling forearm stretch, forearms
-kneeling high pulley row, lats
-kneeling hip flexor, quadriceps
-kneeling jump squat, glutes
-kneeling single-arm high pulley row, lats
-kneeling squat, glutes
-landmine 180's, abdominals
-landmine linear jammer, shoulders
-lateral bound, adductors
-lateral box jump, adductors
-lateral cone hops, adductors
-lateral raise - with bands, shoulders
-latissimus dorsi-smr, lats
-leg extensions, quadriceps
-leg lift, glutes
-leg press, quadriceps
-leg pull-in, abdominals
-leg-over floor press, chest
-leg-up hamstring stretch, hamstrings
-leverage chest press, chest
-leverage deadlift, quadriceps
-leverage decline chest press, chest
-leverage high row, middle back
-leverage incline chest press, chest
-leverage iso row, lats
-leverage shoulder press, shoulders
-leverage shrug, traps
-linear 3-part start technique, hamstrings
-linear acceleration wall drill, hamstrings
-linear depth jump, quadriceps
-log lift, shoulders
-london bridges, lats
-looking at ceiling, quadriceps
-low cable crossover, chest
-low cable triceps extension, triceps
-low pulley row to neck, shoulders
-lower back curl, abdominals
-lower back-smr, lower back
-lunge pass through, hamstrings
-lunge sprint, quadriceps
-lying bent leg groin, adductors
-lying cable curl, biceps
-lying cambered barbell row, middle back
-lying close-grip bar curl on high pulley, biceps
-lying close-grip barbell triceps extension behind the head, triceps
-lying close-grip barbell triceps press to chin, triceps
-lying crossover, abductors
-lying dumbbell tricep extension, triceps
-lying face down plate neck resistance, neck
-lying face up plate neck resistance, neck
-lying glute, glutes
-lying hamstring, hamstrings
-lying high bench barbell curl, biceps
-lying leg curls, hamstrings
-lying machine squat, quadriceps
-lying one-arm lateral raise, shoulders
-lying prone quadriceps, quadriceps
-lying rear delt raise, shoulders
-lying supine dumbbell curl, biceps
-lying t-bar row, middle back
-lying triceps press, triceps
-machine bench press, chest
-machine bicep curl, biceps
-machine preacher curls, biceps
-machine shoulder (military) press, shoulders
-machine triceps extension, triceps
-medicine ball chest pass, chest
-medicine ball full twist, abdominals
-medicine ball scoop throw, shoulders
-middle back shrug, middle back
-middle back stretch, middle back
-mixed grip chin, middle back
-monster walk, abductors
-mountain climbers, quadriceps
-moving claw series, hamstrings
-muscle snatch, hamstrings
-muscle up, lats
-narrow stance hack squats, quadriceps
-narrow stance leg press, quadriceps
-narrow stance squats, quadriceps
-natural glute ham raise, hamstrings
-neck press, chest
-neck-smr, neck
-oblique crunches, abdominals
-oblique crunches - on the floor, abdominals
-olympic squat, quadriceps
-on your side quad stretch, quadriceps
-on-your-back quad stretch, quadriceps
-one arm against wall, lats
-one arm chin-up, middle back
-one arm dumbbell bench press, chest
-one arm dumbbell preacher curl, biceps
-one arm floor press, triceps
-one arm lat pulldown, lats
-one arm pronated dumbbell triceps extension, triceps
-one arm supinated dumbbell triceps extension, triceps
-one half locust, quadriceps
-one handed hang, lats
-one knee to chest, glutes
-one leg barbell squat, quadriceps
-one-arm dumbbell row, middle back
-one-arm flat bench dumbbell flye, chest
-one-arm high-pulley cable side bends, abdominals
-one-arm incline lateral raise, shoulders
-one-arm kettlebell clean, hamstrings
-one-arm kettlebell clean and jerk, shoulders
-one-arm kettlebell floor press, chest
-one-arm kettlebell jerk, shoulders
-one-arm kettlebell military press to the side, shoulders
-one-arm kettlebell para press, shoulders
-one-arm kettlebell push press, shoulders
-one-arm kettlebell row, middle back
-one-arm kettlebell snatch, shoulders
-one-arm kettlebell split jerk, shoulders
-one-arm kettlebell split snatch, shoulders
-one-arm kettlebell swings, hamstrings
-one-arm long bar row, middle back
-one-arm medicine ball slam, abdominals
-one-arm open palm kettlebell clean, hamstrings
-one-arm overhead kettlebell squats, quadriceps
-one-arm side deadlift, quadriceps
-one-arm side laterals, shoulders
-one-legged cable kickback, glutes
-open palm kettlebell clean, hamstrings
-otis-up, abdominals
-overhead cable curl, biceps
-overhead lat, lats
-overhead slam, lats
-overhead squat, quadriceps
-overhead stretch, abdominals
-overhead triceps, triceps
-pallof press with rotation, abdominals
-palms-down dumbbell wrist curl over a bench, forearms
-palms-down wrist curl over a bench, forearms
-palms-up barbell wrist curl over a bench, forearms
-palms-up dumbbell wrist curl over a bench, forearms
-parallel bar dip, triceps
-pelvic tilt into bridge, lower back
-peroneals stretch, calves
-peroneals-smr, calves
-physioball hip bridge, glutes
-pin presses, triceps
-piriformis-smr, glutes
-plank, abdominals
-plank with twist, 
-plate pinch, forearms
-plate twist, abdominals
-platform hamstring slides, hamstrings
-plie dumbbell squat, quadriceps
-plyo kettlebell pushups, chest
-plyo push-up, chest
-posterior tibialis stretch, calves
-power clean, hamstrings
-power clean from blocks, hamstrings
-power jerk, quadriceps
-power partials, shoulders
-power snatch, hamstrings
-power snatch from blocks, quadriceps
-power stairs, hamstrings
-preacher curl, biceps
-preacher hammer dumbbell curl, biceps
-press sit-up, abdominals
-prone manual hamstring, hamstrings
-prowler sprint, hamstrings
-pull through, glutes
-pullups, lats
-push press, shoulders
-push press - behind the neck, shoulders
-push up to side plank, chest
-push-up wide, chest
-push-ups - close triceps position, triceps
-push-ups with feet elevated, chest
-push-ups with feet on an exercise ball, chest
-pushups, chest
-pushups (close and wide hand positions), chest
-pyramid, lower back
-quad stretch, quadriceps
-quadriceps-smr, quadriceps
-quick leap, quadriceps
-rack delivery, shoulders
-rack pull with bands, lower back
-rack pulls, lower back
-rear leg raises, quadriceps
-recumbent bike, quadriceps
-return push from stance, shoulders
-reverse band bench press, triceps
-reverse band box squat, quadriceps
-reverse band deadlift, lower back
-reverse band power squat, quadriceps
-reverse band sumo deadlift, hamstrings
-reverse barbell curl, biceps
-reverse barbell preacher curls, biceps
-reverse cable curl, biceps
-reverse crunch, abdominals
-reverse flyes, shoulders
-reverse flyes with external rotation, shoulders
-reverse grip bent-over rows, middle back
-reverse grip triceps pushdown, triceps
-reverse hyperextension, hamstrings
-reverse machine flyes, shoulders
-reverse plate curls, biceps
-reverse triceps bench press, triceps
-rhomboids-smr, middle back
-rickshaw carry, forearms
-rickshaw deadlift, quadriceps
-ring dips, triceps
-rocket jump, quadriceps
-rocking standing calf raise, calves
-rocky pull-ups/pulldowns, lats
-romanian deadlift, hamstrings
-romanian deadlift from deficit, hamstrings
-rope climb, lats
-rope crunch, abdominals
-rope jumping, quadriceps
-rope straight-arm pulldown, lats
-round the world shoulder stretch, shoulders
-rowing, stationary, quadriceps
-runner's stretch, hamstrings
-running, treadmill, quadriceps
-russian twist, abdominals
-sandbag load, quadriceps
-scapular pull-up, traps
-scissor kick, abdominals
-scissors jump, quadriceps
-seated band hamstring curl, hamstrings
-seated barbell military press, shoulders
-seated barbell twist, abdominals
-seated bent-over one-arm dumbbell triceps extension, triceps
-seated bent-over rear delt raise, shoulders
-seated bent-over two-arm dumbbell triceps extension, triceps
-seated biceps, biceps
-seated cable rows, middle back
-seated cable shoulder press, shoulders
-seated calf raise, calves
-seated calf stretch, calves
-seated close-grip concentration barbell curl, biceps
-seated dumbbell curl, biceps
-seated dumbbell inner biceps curl, biceps
-seated dumbbell palms-down wrist curl, forearms
-seated dumbbell palms-up wrist curl, forearms
-seated dumbbell press, shoulders
-seated flat bench leg pull-in, abdominals
-seated floor hamstring stretch, hamstrings
-seated front deltoid, shoulders
-seated glute, glutes
-seated good mornings, lower back
-seated hamstring, hamstrings
-seated hamstring and calf stretch, hamstrings
-seated head harness neck resistance, neck
-seated leg curl, hamstrings
-seated leg tucks, abdominals
-seated one-arm cable pulley rows, middle back
-seated one-arm dumbbell palms-down wrist curl, forearms
-seated one-arm dumbbell palms-up wrist curl, forearms
-seated overhead stretch, abdominals
-seated palm-up barbell wrist curl, forearms
-seated palms-down barbell wrist curl, forearms
-seated side lateral raise, shoulders
-seated triceps press, triceps
-seated two-arm palms-up low-pulley wrist curl, forearms
-see-saw press (alternating side press), shoulders
-shotgun row, lats
-shoulder circles, shoulders
-shoulder press - with bands, shoulders
-shoulder raise, shoulders
-shoulder stretch, shoulders
-side bridge, abdominals
-side hop-sprint, quadriceps
-side jackknife, abdominals
-side lateral raise, shoulders
-side laterals to front raise, shoulders
-side leg raises, adductors
-side lying groin stretch, adductors
-side neck stretch, neck
-side standing long jump, quadriceps
-side to side box shuffle, quadriceps
-side to side chins, lats
-side wrist pull, shoulders
-side-lying floor stretch, lats
-single dumbbell raise, shoulders
-single leg butt kick, quadriceps
-single leg glute bridge, glutes
-single leg push-off, quadriceps
-single-arm cable crossover, chest
-single-arm linear jammer, shoulders
-single-arm push-up, chest
-single-cone sprint drill, quadriceps
-single-leg high box squat, quadriceps
-single-leg hop progression, quadriceps
-single-leg lateral hop, quadriceps
-single-leg leg extension, quadriceps
-single-leg stride jump, quadriceps
-sit squats, quadriceps
-sit-up, abdominals
-skating, quadriceps
-sled drag - harness, quadriceps
-sled overhead backward walk, shoulders
-sled overhead triceps extension, triceps
-sled push, quadriceps
-sled reverse flye, shoulders
-sled row, middle back
-sledgehammer swings, abdominals
-smith incline shoulder raise, shoulders
-smith machine behind the back shrug, traps
-smith machine bench press, chest
-smith machine bent over row, middle back
-smith machine calf raise, calves
-smith machine close-grip bench press, triceps
-smith machine decline press, chest
-smith machine hang power clean, hamstrings
-smith machine hip raise, abdominals
-smith machine incline bench press, chest
-smith machine leg press, quadriceps
-smith machine one-arm upright row, shoulders
-smith machine overhead shoulder press, shoulders
-smith machine pistol squat, quadriceps
-smith machine reverse calf raises, calves
-smith machine shrug, traps
-smith machine squat, quadriceps
-smith machine stiff-legged deadlift, hamstrings
-smith machine upright row, traps
-smith single-leg split squat, quadriceps
-snatch, quadriceps
-snatch balance, quadriceps
-snatch deadlift, hamstrings
-snatch from blocks, quadriceps
-snatch pull, hamstrings
-snatch shrug, traps
-speed band overhead triceps, triceps
-speed band pushdown, triceps
-speed box squat, quadriceps
-speed squats, quadriceps
-spell caster, abdominals
-spider crawl, abdominals
-spider curl, biceps
-spinal stretch, middle back
-split clean, quadriceps
-split jerk, quadriceps
-split jump, quadriceps
-split snatch, hamstrings
-split squat with dumbbells, quadriceps
-split squats, hamstrings
-squat jerk, quadriceps
-squat with bands, quadriceps
-squat with chains, quadriceps
-squat with plate movers, quadriceps
-squats - with bands, quadriceps
-stairmaster, quadriceps
-standing alternating dumbbell press, shoulders
-standing barbell calf raise, calves
-standing barbell press behind neck, shoulders
-standing bent-over one-arm dumbbell triceps extension, triceps
-standing bent-over two-arm dumbbell triceps extension, triceps
-standing biceps cable curl, biceps
-standing biceps stretch, biceps
-standing bradford press, shoulders
-standing cable chest press, chest
-standing cable lift, abdominals
-standing cable wood chop, abdominals
-standing calf raises, calves
-standing concentration curl, biceps
-standing dumbbell calf raise, calves
-standing dumbbell press, shoulders
-standing dumbbell reverse curl, biceps
-standing dumbbell straight-arm front delt raise above head, shoulders
-standing dumbbell triceps extension, triceps
-standing dumbbell upright row, traps
-standing elevated quad stretch, quadriceps
-standing front barbell raise over head, shoulders
-standing gastrocnemius calf stretch, calves
-standing hamstring and calf stretch, hamstrings
-standing hip circles, abductors
-standing hip flexors, quadriceps
-standing inner-biceps curl, biceps
-standing lateral stretch, abdominals
-standing leg curl, hamstrings
-standing long jump, quadriceps
-standing low-pulley deltoid raise, shoulders
-standing low-pulley one-arm triceps extension, triceps
-standing military press, shoulders
-standing olympic plate hand squeeze, forearms
-standing one-arm cable curl, biceps
-standing one-arm dumbbell curl over incline bench, biceps
-standing one-arm dumbbell triceps extension, triceps
-standing overhead barbell triceps extension, triceps
-standing palm-in one-arm dumbbell press, shoulders
-standing palms-in dumbbell press, shoulders
-standing palms-up barbell behind the back wrist curl, forearms
-standing pelvic tilt, lower back
-standing rope crunch, abdominals
-standing soleus and achilles stretch, calves
-standing toe touches, hamstrings
-standing towel triceps extension, triceps
-standing two-arm overhead throw, shoulders
-star jump, quadriceps
-step mill, quadriceps
-step-up with knee raise, glutes
-stiff leg barbell good morning, lower back
-stiff-legged barbell deadlift, hamstrings
-stiff-legged dumbbell deadlift, hamstrings
-stomach vacuum, abdominals
-straight bar bench mid rows, middle back
-straight raises on incline bench, shoulders
-straight-arm dumbbell pullover, chest
-straight-arm pulldown, lats
-stride jump crossover, quadriceps
-sumo deadlift, hamstrings
-sumo deadlift with bands, hamstrings
-sumo deadlift with chains, hamstrings
-superman, lower back
-supine chest throw, triceps
-supine one-arm overhead throw, abdominals
-supine two-arm overhead throw, abdominals
-suspended push-up, chest
-suspended reverse crunch, abdominals
-suspended row, middle back
-suspended split squat, quadriceps
-t-bar row with handle, middle back
-tate press, triceps
-the straddle, hamstrings
-thigh abductor, abductors
-thigh adductor, adductors
-tire flip, quadriceps
-toe touchers, abdominals
-torso rotation, abdominals
-trail running/walking, quadriceps
-trap bar deadlift, quadriceps
-tricep dumbbell kickback, triceps
-tricep side stretch, triceps
-triceps overhead extension with rope, triceps
-triceps pushdown, triceps
-triceps pushdown - rope attachment, triceps
-triceps pushdown - v-bar attachment, triceps
-triceps stretch, triceps
-tuck crunch, abdominals
-two-arm dumbbell preacher curl, biceps
-two-arm kettlebell clean, shoulders
-two-arm kettlebell jerk, shoulders
-two-arm kettlebell military press, shoulders
-two-arm kettlebell row, middle back
-underhand cable pulldowns, lats
-upper back stretch, middle back
-upper back-leg grab, hamstrings
-upright barbell row, shoulders
-upright cable row, traps
-upright row - with bands, traps
-upward stretch, shoulders
-v-bar pulldown, lats
-v-bar pullup, lats
-vertical swing, hamstrings
-walking, treadmill, quadriceps
-weighted ball hyperextension, lower back
-weighted ball side bend, abdominals
-weighted bench dip, triceps
-weighted crunches, abdominals
-weighted jump squat, quadriceps
-weighted pull ups, lats
-weighted sissy squat, quadriceps
-weighted sit-ups - with bands, abdominals
-weighted squat, quadriceps
-wide stance barbell squat, quadriceps
-wide stance stiff legs, hamstrings
-wide-grip barbell bench press, chest
-wide-grip decline barbell bench press, chest
-wide-grip decline barbell pullover, chest
-wide-grip lat pulldown, lats
-wide-grip pulldown behind the neck, lats
-wide-grip rear pull-up, lats
-wide-grip standing barbell curl, biceps
-wind sprints, abdominals
-windmills, abductors
-world's greatest stretch, hamstrings
-wrist circles, forearms
-wrist roller, forearms
-wrist rotations with straight bar, forearms
-yoke walk, quadriceps
-zercher squats, quadriceps
-zottman curl, biceps
-zottman preacher curl, biceps
+let desription;
+let muscleGroup;
+[
+    { 
+        description: 'ab crunch machine',
+        muscleGroup: 'abdominals'
+    },
+    {
+        description: 'ab roller',
+        muscleGroup: 'abdominals'
+    },
+    {
+        description:'adductor',
+        muscleGroup: 'adductors'
+    },
+    {
+        description: 'adductor/groin',
+        muscleGroup: 'adductors'
+    },
+    {
+        description: 'advanced kettlebell windmill',
+        muscleGroup: 'abdominals'
+    },
+    {
+        description: 'air bike',
+        muscleGroup: 'abdominals'
+    },
+    {
+        description: 'all fours quad stretch',
+        muscleGroup: 'quadriceps'
+    },
+    {
+        description: 'alternate hammer curl',
+        muscleGroup: 'biceps'
+    },
+    {
+        description: 'alternate heel touchers',
+        muscleGroup: 'abdominals'
+    },
+    {
+        description: 'alternate incline dumbbell curl',
+        muscleGroup: 'biceps'
+    },
+    {
+        description: 'alternate leg diagonal bound',
+        muscleGroup: 'quadriceps'
+    },
+    {
+        description: 'alternating cable shoulder press',
+        muscleGroup: 'shoulders'
+    },
+    {
+        description: 'alternating deltoid raise',
+        muscleGroup: 'shoulders'
+    },
+    {
+        description: 'alternating floor press',
+        muscleGroup: 'chest'
+    },
+    {
+        description: 'alternating hang clean',
+        muscleGroup: 'hamstrings'
+    },
+    {
+        description: 'alternating kettlebell press',
+        muscleGroup: 'shoulders'
+    },
+    {
+        description: 'lternating kettlebell row',
+        muscleGroup: 'middle back'
+    },
+    {
+        description: 'alternating renegade row',
+        muscleGroup: 'middle back'
+    },
+    {
+        description: 'ankle circles',
+        muscleGroup: 'calves'
+    },
+    {
+        description: 'ankle on the knee',
+        muscleGroup: 'glutes'
+    },
+    {
+        description: 'anterior tibialis-smr',
+        muscleGroup: 'calves'
+    },
+    {
+        description: 'anti-gravity press',
+        muscleGroup: 'shoulders'
+    },
+    {
+        description: 'rm circles',
+        muscleGroup: 'shoulders'
+    },
+    {
+        description: 'arnold dumbbell press',
+        muscleGroup: 'shoulders'
+    },
+    {
+        description: 'around the worlds',
+        muscleGroup: 'chest'
+    },
+    {
+        description: 'atlas stone trainer',
+        muscleGroup: 'lower back'
+    },
+    {
+        description: 'atlas stones',
+        muscleGroup: 'lower back'
+    },
+    {
+        description: 'axle deadlift',
+        muscleGroup: 'lower back'
+    },
+    {
+        description: 'back flyes - with bands',
+        muscleGroup: 'shoulders'
+    },
+    {
+        description: 'backward drag',
+        muscleGroup: 'quadriceps'
+    },
+    {
+        description: 'backward medicine ball throw',
+        muscleGroup: 'shoulders'
+    },
+    {
+        description: 'balance board',
+        muscleGroup: 'calves'
+    },
+    {
+        description: 'ball leg curl',
+        muscleGroup: 'hamstrings'
+    },
+    {
+        description: 'band assisted pull-up',
+        muscleGroup: 'lats'
+    },
+    {
+        description: 'band good morning',
+        muscleGroup: 'hamstrings'
+    },
+    {
+        description: 'band good morning (pull through)',
+        muscleGroup: 'hamstrings'
+    },
+    {
+        description: 'band hip adductions',
+        muscleGroup: 'adductors'
+    },
+    {
+        description: 'band pull apart',
+        muscleGroup: 'shoulders'
+    },
+    {
+        description: 'band skull crusher',
+        muscleGroup: 'triceps'
+    },
+    {
+        description: 'barbell ab rollout',
+        muscleGroup: 'abdominals'
+    },
+    {
+        description: 'barbell ab rollout - on knees',
+        muscleGroup: 'abdominals'
+    },
+    {
+        description: 'barbell bench press - medium grip',
+        muscleGroup: 'chest'
+    },
+    {
+        description: 'barbell curl',
+        muscleGroup: 'biceps'
+    },
+    {
+        description: 'barbell curls lying against an incline',
+        muscleGroup: 'biceps'
+    },
+    {
+        description: 'barbell deadlift',
+        muscleGroup: 'lower back'
+    },
+    {
+        description: 'barbell full squat',
+        muscleGroup: 'quadriceps'
+    },
+    {
+        description: 'barbell glute bridge',
+        muscleGroup: 'glutes'
+    },
+    {
+        description: 'barbell guillotine bench press',
+        muscleGroup: 'chest'
+    },
+    {
+        description: 'barbell hack squat',
+        muscleGroup: 'quadriceps'
+    },
+    {
+        description: 'barbell hip thrust',
+        muscleGroup: 'glutes'
+    },
+    {
+        description: 'barbell incline bench press - medium grip',
+        muscleGroup: 'chest'
+    },
+    {
+        description: 'barbell incline shoulder raise',
+        muscleGroup: 'shoulders'
+    },
+    {
+        description: 'barbell lunge',
+        muscleGroup: 'quadriceps'
+    },
+    {
+        description: 'barbell rear delt row',
+        muscleGroup: 'shoulders'
+    },
+    {
+        description: 'barbell rollout from bench',
+        muscleGroup: 'abdominals'
+    },
+    {
+        description: 'barbell seated calf raise',
+        muscleGroup: 'calves'
+    },
+    {
+        description: 'barbell shoulder press',
+        muscleGroup: 'shoulders'
+    },
+    {
+        description: 'barbell shrug',
+        muscleGroup: 'traps'
+    },
+    {
+        description: 'barbell shrug behind the back',
+        muscleGroup: 'traps'
+    },
+    {
+        description: 'barbell side bend',
+        muscleGroup: 'abdominals'
+    },
+    {
+        description: 'barbell side split squat',
+        muscleGroup: 'quadriceps'
+    },
+    {
+        description: 'barbell squat',
+        muscleGroup: 'quadriceps'
+    },
+    {
+        description: 'barbell squat to a bench',
+        muscleGroup: 'quadriceps'
+    },
+    {
+        description: 'barbell step ups',
+        muscleGroup: 'quadriceps'
+    },
+    {
+        description: 'barbell walking lunge',
+        muscleGroup: 'quadriceps'
+    },
+    {
+        description: 'battling ropes',
+        muscleGroup: 'shoulders'
+    },
+    {
+        description: 'bear crawl sled drags',
+        muscleGroup: 'quadriceps'
+    },
+    {
+        description: 'behind head chest stretch',
+        muscleGroup: 'chest'
+    },
+    {
+        description: 'bench dips',
+        muscleGroup: 'triceps'
+    },
+    {
+        description: 'bench jump',
+        muscleGroup: 'quadriceps'
+    },
+    {
+        description: 'bench press - powerlifting',
+        muscleGroup: 'triceps'
+    },
+    {
+        description: 'bench press - with bands',
+        muscleGroup: 'chest'
+    },
+    {
+        description: 'bench press with chains',
+        muscleGroup: 'triceps'
+    },
+    {
+        description: 'bench sprint',
+        muscleGroup: 'quadriceps'
+    },
+    {
+        description: 'bent over barbell row',
+        muscleGroup: 'middle back'
+    },
+    {
+        description: 'bent over dumbbell rear delt raise with head on bench',
+        muscleGroup: 'shoulders'
+    },
+    {
+        description: 'bent over low-pulley side lateral',
+        muscleGroup: 'shoulders'
+    },
+    {
+        description: 'bent over one-arm long bar row',
+        muscleGroup: 'middle back'
+    },
+    {
+        description: 'bent over two-arm long bar row',
+        muscleGroup: 'middle back'
+    },
+    {
+        description: 'bent over two-dumbbell row',
+        muscleGroup: 'middle back'
+    },
+    {
+        description: 'bent over two-dumbbell row with palms in',
+        muscleGroup: 'middle back'
+    },
+    {
+        description: 'bent press',
+        muscleGroup: 'abdominals'
+    },
+    {
+        description: 'bent-arm barbell pullover',
+        muscleGroup: 'lats'
+    },
+    {
+        description: 'bent-arm dumbbell pullover',
+        muscleGroup: 'chest'
+    },
+    {
+        description: 'bent-knee hip raise',
+        muscleGroup: 'abdominals'
+    },
+    {
+        description: 'bicycling',
+        muscleGroup: 'quadriceps'
+    },
+    {
+        description: 'bicycling stationary',
+        muscleGroup: 'quadriceps'
+    },
+    {
+        description: 'board press',
+        muscleGroup: 'triceps'
+    },
+    {
+        description: 'body tricep press',
+        muscleGroup: 'triceps'
+    },
+    {
+        description: 'body-up',
+        muscleGroup: 'triceps'
+    },
+    {
+        description: 'bodyweight flyes',
+        muscleGroup: 'chest'
+    },
+    {
+        description: 'bodyweight mid row',
+        muscleGroup: 'middle back'
+    },
+    {
+        description: 'bodyweight squat',
+        muscleGroup: 'quadriceps'
+    },
+    {
+        description: 'bodyweight walking lunge',
+        muscleGroup: 'quadriceps'
+    },
+    {
+        description: 'bosu ball cable crunch with side bends',
+        muscleGroup: 'abdominals'
+    },
+    {
+        description: 'bottoms up',
+        muscleGroup: 'abdominals'
+    },
+    {
+        description: 'bottoms-up clean from the hang position',
+        muscleGroup: 'forearms'
+    },
+    {
+        description: 'box jump (multiple response)',
+        muscleGroup: 'hamstrings'
+    },
+    {
+        description: 'box skip',
+        muscleGroup: 'hamstrings'
+    },
+    {
+        description: 'box squat',
+        muscleGroup: 'quadriceps'
+    },
+    {
+        description: 'box squat with bands',
+        muscleGroup: 'quadriceps'
+    },
+    {
+        description: 'box squat with chains',
+        muscleGroup: 'quadriceps'
+    },
+    {
+        description: 'brachialis-smr',
+        muscleGroup: 'biceps'
+    },
+    {
+        description: 'bradford/rocky presses',
+        muscleGroup: 'shoulders'
+    },
+    {
+        description: 'butt lift (bridge)',
+        muscleGroup: 'glutes'
+    },
+    {
+        description: 'butt-ups',
+        muscleGroup: 'abdominals'
+    },
+    {
+        description: 'butterfly',
+        muscleGroup: 'chest'
+    },
+    {
+        description: 'cable chest press',
+        muscleGroup: 'chest'
+    },
+    {
+        description: 'cable crossover',
+        muscleGroup: 'chest'
+    },
+    {
+        description: 'cable crunch',
+        muscleGroup: 'abdominals'
+    },
+    {
+        description: 'cable deadlifts',
+        muscleGroup: 'quadriceps'
+    },
+    {
+        description: 'cable hammer curls - rope attachment',
+        muscleGroup: 'biceps'
+    },
+    {
+        description: 'cable hip adduction',
+        muscleGroup: 'quadriceps'
+    },
+    {
+        description: 'cable incline pushdown',
+        muscleGroup: 'lats'
+    },
+    {
+        description: 'cable incline triceps extension',
+        muscleGroup: 'triceps'
+    },
+    {
+        description: 'cable internal rotation',
+        muscleGroup: 'shoulders'
+    },
+    {
+        description: 'cable iron cross,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'cable judo flip,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'cable lying triceps extension,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'cable one arm tricep extension,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'cable preacher curl,
+        muscleGroup: 'biceps
+    },
+    {
+        description: 'cable rear delt fly,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'cable reverse crunch,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'cable rope overhead triceps extension,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'cable rope rear-delt rows,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'cable russian twists,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'cable seated crunch,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'cable seated lateral raise,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'cable shoulder press,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'cable shrugs,
+        muscleGroup: 'traps
+    },
+    {
+        description: 'cable tuck reverse crunch,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'cable wrist curl,
+        muscleGroup: 'forearms
+    },
+    {
+        description: 'calf press,
+        muscleGroup: 'calves
+    },
+    {
+        description: 'calf press on the leg press machine,
+        muscleGroup: 'calves
+    },
+    {
+        description: 'calf raise on a dumbbell,
+        muscleGroup: 'calves
+    },
+    {
+        description: 'calf raises - with bands,
+        muscleGroup: 'calves
+    },
+    {
+        description: 'calf stretch elbows against wall,
+        muscleGroup: 'calves
+    },
+    {
+        description: 'calf stretch hands against wall,
+        muscleGroup: 'calves
+    },
+    {
+        description: 'calf-machine shoulder shrug,
+        muscleGroup: 'traps
+    },
+    {
+        description: 'calves-smr,
+        muscleGroup: 'calves
+    },
+    {
+        description: 'car deadlift,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'car drivers,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'carioca quick step,
+        muscleGroup: 'adductors
+    },
+    {
+        description: 'cat stretch,
+        muscleGroup: 'lower back
+    },
+    {
+        description: 'catch and overhead throw,
+        muscleGroup: 'lats
+    },
+    {
+        description: 'chain handle extension,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'chain press,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'chair leg extended stretch,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'chair lower back stretch,
+        muscleGroup: 'lats
+    },
+    {
+        description: 'chair squat,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'chair upper body stretch,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'chest and front of shoulder stretch,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'chest push (multiple response),
+        muscleGroup: 'chest
+    },
+    {
+        description: 'chest push (single response),
+        muscleGroup: 'chest
+    },
+    {
+        description: 'chest push from 3 point stance,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'chest push with run release,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'chest stretch on stability ball,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'child's pose,
+        muscleGroup: 'lower back
+    },
+    {
+        description: 'chin to chest stretch,
+        muscleGroup: 'neck
+    },
+    {
+        description: 'chin-up,
+        muscleGroup: 'lats
+    },
+    {
+        description: 'circus bell,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'clean,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'clean and jerk,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'clean and press,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'clean deadlift,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'clean from blocks,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'clean pull,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'clean shrug,
+        muscleGroup: 'traps
+    },
+    {
+        description: 'clock push-up,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'close-grip barbell bench press,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'close-grip dumbbell press,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'close-grip ez bar curl,
+        muscleGroup: 'biceps
+    },
+    {
+        description: 'close-grip ez-bar curl with band,
+        muscleGroup: 'biceps
+    },
+    {
+        description: 'close-grip ez-bar press,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'close-grip front lat pulldown,
+        muscleGroup: 'lats
+    },
+    {
+        description: 'close-grip push-up off of a dumbbell,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'close-grip standing barbell curl,
+        muscleGroup: 'biceps
+    },
+    {
+        description: 'cocoons,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'conan's wheel,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'concentration curls,
+        muscleGroup: 'biceps
+    },
+    {
+        description: 'cross body hammer curl,
+        muscleGroup: 'biceps
+    },
+    {
+        description: 'cross over - with bands,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'cross-body crunch,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'crossover reverse lunge,
+        muscleGroup: 'lower back
+    },
+    {
+        description: 'crucifix,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'crunch - hands overhead,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'crunch - legs on exercise ball,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'crunches,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'cuban press,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'dancer's stretch,
+        muscleGroup: 'lower back
+    },
+    {
+        description: 'deadlift with bands,
+        muscleGroup: 'lower back
+    },
+    {
+        description: 'deadlift with chains,
+        muscleGroup: 'lower back
+    },
+    {
+        description: 'decline barbell bench press,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'decline close-grip bench to skull crusher,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'decline crunch,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'decline dumbbell bench press,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'decline dumbbell flyes,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'decline dumbbell triceps extension,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'decline ez bar triceps extension,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'decline oblique crunch,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'decline push-up,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'decline reverse crunch,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'decline smith press,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'deficit deadlift,
+        muscleGroup: 'lower back
+    },
+    {
+        description: 'depth jump leap,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'dip machine,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'dips - chest version,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'dips - triceps version,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'donkey calf raises,
+        muscleGroup: 'calves
+    },
+    {
+        description: 'double kettlebell alternating hang clean,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'double kettlebell jerk,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'double kettlebell push press,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'double kettlebell snatch,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'double kettlebell windmill,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'double leg butt kick,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'downward facing balance,
+        muscleGroup: 'glutes
+    },
+    {
+        description: 'drag curl,
+        muscleGroup: 'biceps
+    },
+    {
+        description: 'drop push,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'dumbbell alternate bicep curl,
+        muscleGroup: 'biceps
+    },
+    {
+        description: 'dumbbell bench press,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'dumbbell bench press with neutral grip,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'dumbbell bicep curl,
+        muscleGroup: 'biceps
+    },
+    {
+        description: 'dumbbell clean,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'dumbbell floor press,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'dumbbell flyes,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'dumbbell incline row,
+        muscleGroup: 'middle back
+    },
+    {
+        description: 'dumbbell incline shoulder raise,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'dumbbell lunges,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'dumbbell lying one-arm rear lateral raise,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'dumbbell lying pronation,
+        muscleGroup: 'forearms
+    },
+    {
+        description: 'dumbbell lying rear lateral raise,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'dumbbell lying supination,
+        muscleGroup: 'forearms
+    },
+    {
+        description: 'dumbbell one-arm shoulder press,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'dumbbell one-arm triceps extension,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'dumbbell one-arm upright row,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'dumbbell prone incline curl,
+        muscleGroup: 'biceps
+    },
+    {
+        description: 'dumbbell raise,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'dumbbell rear lunge,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'dumbbell scaption,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'dumbbell seated box jump,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'dumbbell seated one-leg calf raise,
+        muscleGroup: 'calves
+    },
+    {
+        description: 'dumbbell shoulder press,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'dumbbell shrug,
+        muscleGroup: 'traps
+    },
+    {
+        description: 'dumbbell side bend,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'dumbbell squat,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'dumbbell squat to a bench,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'dumbbell step ups,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'dumbbell tricep extension -pronated grip,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'dynamic back stretch,
+        muscleGroup: 'lats
+    },
+    {
+        description: 'dynamic chest stretch,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'elbow circles,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'elbow to knee,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'elbows back,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'elevated back lunge,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'elevated cable rows,
+        muscleGroup: 'lats
+    },
+    {
+        description: 'elliptical trainer,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'exercise ball crunch,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'exercise ball pull-in,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'extended range one-arm kettlebell floor press,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'external rotation,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'external rotation with band,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'external rotation with cable,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'ez-bar curl,
+        muscleGroup: 'biceps
+    },
+    {
+        description: 'ez-bar skullcrusher,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'face pull,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'farmer's walk,
+        muscleGroup: 'forearms
+    },
+    {
+        description: 'fast skipping,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'finger curls,
+        muscleGroup: 'forearms
+    },
+    {
+        description: 'flat bench cable flyes,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'flat bench leg pull-in,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'flat bench lying leg raise,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'flexor incline dumbbell curls,
+        muscleGroup: 'biceps
+    },
+    {
+        description: 'floor glute-ham raise,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'floor press,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'floor press with chains,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'flutter kicks,
+        muscleGroup: 'glutes
+    },
+    {
+        description: 'foot-smr,
+        muscleGroup: 'calves
+    },
+    {
+        description: 'forward drag with press,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'frankenstein squat,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'freehand jump squat,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'frog hops,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'frog sit-ups,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'front barbell squat,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'front barbell squat to a bench,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'front box jump,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'front cable raise,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'front cone hops (or hurdle hops),
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'front dumbbell raise,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'front incline dumbbell raise,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'front leg raises,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'front plate raise,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'front raise and pullover,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'front squat (clean grip),
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'front squats with two kettlebells,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'front two-dumbbell raise,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'full range-of-motion lat pulldown,
+        muscleGroup: 'lats
+    },
+    {
+        description: 'gironda sternum chins,
+        muscleGroup: 'lats
+    },
+    {
+        description: 'glute ham raise,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'glute kickback,
+        muscleGroup: 'glutes
+    },
+    {
+        description: 'goblet squat,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'good morning,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'good morning off pins,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'gorilla chin/crunch,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'groin and back stretch,
+        muscleGroup: 'adductors
+    },
+    {
+        description: 'groiners,
+        muscleGroup: 'adductors
+    },
+    {
+        description: 'hack squat,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'hammer curls,
+        muscleGroup: 'biceps
+    },
+    {
+        description: 'hammer grip incline db bench press,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'hamstring stretch,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'hamstring-smr,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'handstand push-ups,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'hang clean,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'hang clean - below the knees,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'hang snatch,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'hang snatch - below knees,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'hanging bar good morning,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'hanging leg raise,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'hanging pike,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'heaving snatch balance,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'heavy bag thrust,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'high cable curls,
+        muscleGroup: 'biceps
+    },
+    {
+        description: 'hip circles (prone),
+        muscleGroup: 'abductors
+    },
+    {
+        hip crossover,
+    },
+    {
+        description: 'hip extension with bands,
+        muscleGroup: 'glutes
+    },
+    {
+        description: 'hip flexion with band,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'hip lift with band,
+        muscleGroup: 'glutes
+    },
+    {
+        description: 'hug a ball,
+        muscleGroup: 'lower back
+    },
+    {
+        description: 'hug knees to chest,
+        muscleGroup: 'lower back
+    },
+    {
+        description: 'hurdle hops,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'hyperextensions (back extensions),
+        muscleGroup: 'lower back
+    },
+    {
+        description: 'hyperextensions with no hyperextension bench,
+        muscleGroup: 'lower back
+    },
+    {
+        description: 'iliotibial tract-smr,
+        muscleGroup: 'abductors
+    },
+    {
+        description: 'incline barbell triceps extension,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'incline bench pull,
+        muscleGroup: 'middle back
+    },
+    {
+        description: 'incline cable chest press,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'incline cable flye,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'incline dumbbell bench with palms facing in,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'incline dumbbell curl,
+        muscleGroup: 'biceps
+    },
+    {
+        description: 'incline dumbbell flyes,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'incline dumbbell flyes - with a twist,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'incline dumbbell press,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'incline hammer curls,
+        muscleGroup: 'biceps
+    },
+    {
+        description: 'incline inner biceps curl,
+        muscleGroup: 'biceps
+    },
+    {
+        description: 'incline push-up,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'incline push-up close-grip,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'incline push-up depth jump,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'incline push-up medium,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'incline push-up reverse grip,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'incline push-up wide,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'intermediate groin stretch,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'intermediate hip flexor and quad stretch,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'internal rotation with band,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'inverted row,
+        muscleGroup: 'middle back
+    },
+    {
+        description: 'inverted row with straps,
+        muscleGroup: 'middle back
+    },
+    {
+        description: 'iron cross,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'iron crosses (stretch),
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'isometric chest squeezes,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'isometric neck exercise - front and back,
+        muscleGroup: 'neck
+    },
+    {
+        description: 'isometric neck exercise - sides,
+        muscleGroup: 'neck
+    },
+    {
+        description: 'isometric wipers,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'it band and glute stretch,
+        muscleGroup: 'abductors
+    },
+    {
+        description: 'jackknife sit-up,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'janda sit-up,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'jefferson squats,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'jerk balance,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'jerk dip squat,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'jm press,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'jogging-treadmill,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'keg load,
+        muscleGroup: 'lower back
+    },
+    {
+        description: 'kettlebell arnold press,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'kettlebell dead clean,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'kettlebell figure 8,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'kettlebell hang clean,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'kettlebell one-legged deadlift,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'kettlebell pass between the legs,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'kettlebell pirate ships,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'kettlebell pistol squat,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'kettlebell seated press,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'kettlebell seesaw press,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'kettlebell sumo high pull,
+        muscleGroup: 'traps
+    },
+    {
+        description: 'kettlebell thruster,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'kettlebell turkish get-up (lunge style),
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'kettlebell turkish get-up (squat style),
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'kettlebell windmill,
+        muscleGroup: 'abdominals
+    },
+    {description: '
+        description: 'kipping muscle up,
+        muscleGroup: 'lats
+    },
+    {
+        description: 'knee across the body,
+        muscleGroup: 'glutes
+    },
+    {
+        description: 'knee circles,
+        muscleGroup: 'calves
+    },
+    {
+        description: 'knee tuck jump,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'knee/hip raise on parallel bars,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'kneeling arm drill,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'kneeling cable crunch with alternating oblique twists,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'kneeling cable triceps extension,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'kneeling forearm stretch,
+        muscleGroup: 'forearms
+    },
+    {
+        description: 'kneeling high pulley row,
+        muscleGroup: 'lats
+    },
+    {
+        description: 'kneeling hip flexor,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'kneeling jump squat,
+        muscleGroup: 'glutes
+    },
+    {
+        description: 'kneeling single-arm high pulley row,
+        muscleGroup: 'lats
+    },
+    {
+        description: 'kneeling squat,
+        muscleGroup: 'glutes
+    },
+    {
+        description: 'landmine 180's,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'landmine linear jammer,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'lateral bound,
+        muscleGroup: 'adductors
+    },
+    {
+        description: 'lateral box jump,
+        muscleGroup: 'adductors
+    },
+    {
+        description: 'lateral cone hops,
+        muscleGroup: 'adductors
+    },
+    {
+        description: 'lateral raise - with bands,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'latissimus dorsi-smr,
+        muscleGroup: 'lats
+    },
+    {
+        description: 'leg extensions,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'leg lift,
+        muscleGroup: 'glutes
+    },
+    {
+        description: 'leg press,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'leg pull-in,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'leg-over floor press,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'leg-up hamstring stretch,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'leverage chest press,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'leverage deadlift,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'leverage decline chest press,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'leverage high row,
+        muscleGroup: 'middle back
+    },
+    {
+        description: 'leverage incline chest press,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'leverage iso row,
+        muscleGroup: 'lats
+    },
+    {
+        description: 'leverage shoulder press,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'leverage shrug,
+        muscleGroup: 'traps
+    },
+    {
+        description: 'linear 3-part start technique,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'linear acceleration wall drill,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'linear depth jump,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'log lift,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'london bridges,
+        muscleGroup: 'lats
+    },
+    {
+        description: 'looking at ceiling,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'low cable crossover,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'low cable triceps extension,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'low pulley row to neck,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'lower back curl,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'lower back-smr,
+        muscleGroup: 'lower back
+    },
+    {
+        description: 'lunge pass through,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'lunge sprint,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'lying bent leg groin,
+        muscleGroup: 'adductors
+    },
+    {
+        description: 'lying cable curl,
+        muscleGroup: 'biceps
+    },
+    {
+        description: 'lying cambered barbell row,
+        muscleGroup: 'middle back
+    },
+    {
+        description: 'lying close-grip bar curl on high pulley,
+        muscleGroup: 'biceps
+    },
+    {
+        description: 'lying close-grip barbell triceps extension behind the head,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'lying close-grip barbell triceps press to chin,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'lying crossover,
+        muscleGroup: 'abductors
+    },
+    {
+        description: 'lying dumbbell tricep extension,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'lying face down plate neck resistance,
+        muscleGroup: 'neck
+    },
+    {
+        description: 'lying face up plate neck resistance,
+        muscleGroup: 'neck
+    },
+    {
+        description: 'lying glute,
+        muscleGroup: 'glutes
+    },
+    {
+        description: 'lying hamstring,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'lying high bench barbell curl,
+        muscleGroup: 'biceps
+    },
+    {
+        description: 'lying leg curls,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'lying machine squat,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'lying one-arm lateral raise,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'lying prone quadriceps,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'lying rear delt raise,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'lying supine dumbbell curl,
+        muscleGroup: 'biceps
+    },
+    {
+        description: 'lying t-bar row,
+        muscleGroup: 'middle back
+    },
+    {
+        description: 'lying triceps press,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'machine bench press,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'machine bicep curl,
+        muscleGroup: 'biceps
+    },
+    {
+        description: 'machine preacher curls,
+        muscleGroup: 'biceps
+    },
+    {
+        description: 'machine shoulder (military) press,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'machine triceps extension,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'medicine ball chest pass,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'medicine ball full twist,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'medicine ball scoop throw,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'middle back shrug,
+        muscleGroup: 'middle back
+    },
+    {
+        description: 'middle back stretch,
+        muscleGroup: 'middle back
+    },
+    {
+        description: 'mixed grip chin,
+        muscleGroup: 'middle back
+    },
+    {
+        description: 'monster walk,
+        muscleGroup: 'abductors
+    },
+    {
+        description: 'mountain climbers,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'moving claw series,
+        muscleGroup: 'hamstrings
+    },
+    {description: '
+        description: 'muscle snatch,
+        muscleGroup: 'hamstrings
+    },
+    {description: '
+        description: 'muscle up,
+        muscleGroup: 'lats
+    },
+    {
+        description: 'narrow stance hack squats,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'narrow stance leg press,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'narrow stance squats,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'natural glute ham raise,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'neck press,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'neck-smr,
+        muscleGroup: 'neck
+    },
+    {
+        description: 'oblique crunches,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'oblique crunches - on the floor,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'olympic squat,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'on your side quad stretch,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'on-your-back quad stretch,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'one arm against wall,
+        muscleGroup: 'lats
+    },
+    {
+        description: 'one arm chin-up,
+        muscleGroup: 'middle back
+    },
+    {
+        description: 'one arm dumbbell bench press,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'one arm dumbbell preacher curl,
+        muscleGroup: 'biceps
+    },
+    {
+        description: 'one arm floor press,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'one arm lat pulldown,
+        muscleGroup: 'lats
+    },
+    {
+        description: 'one arm pronated dumbbell triceps extension,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'one arm supinated dumbbell triceps extension,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'one half locust,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'one handed hang,
+        muscleGroup: 'lats
+    },
+    {
+        description: 'one knee to chest,
+        muscleGroup: 'glutes
+    },
+    {
+        description: 'one leg barbell squat,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'one-arm dumbbell row,
+        muscleGroup: 'middle back
+    },
+    {
+        description: 'one-arm flat bench dumbbell flye,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'one-arm high-pulley cable side bends,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'one-arm incline lateral raise,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'one-arm kettlebell clean,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'one-arm kettlebell clean and jerk,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'one-arm kettlebell floor press,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'one-arm kettlebell jerk,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'one-arm kettlebell military press to the side,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'one-arm kettlebell para press,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'one-arm kettlebell push press,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'one-arm kettlebell row,
+        muscleGroup: 'middle back
+    },
+    {
+        description: 'one-arm kettlebell snatch,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'one-arm kettlebell split jerk,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'one-arm kettlebell split snatch,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'one-arm kettlebell swings,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'one-arm long bar row,
+        muscleGroup: 'middle back
+    },
+    {
+        description: 'one-arm medicine ball slam,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'one-arm open palm kettlebell clean,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'one-arm overhead kettlebell squats,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'one-arm side deadlift,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'one-arm side laterals,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'one-legged cable kickback,
+        muscleGroup: 'glutes
+    },
+    {
+        description: 'open palm kettlebell clean,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'otis-up,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'overhead cable curl,
+        muscleGroup: 'biceps
+    },
+    {
+        description: 'overhead lat,
+        muscleGroup: 'lats
+    },
+    {
+        description: 'overhead slam,
+        muscleGroup: 'lats
+    },
+    {
+        description: 'overhead squat,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'overhead stretch,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'overhead triceps,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'pallof press with rotation,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'palms-down dumbbell wrist curl over a bench,
+        muscleGroup: 'forearms
+    },
+    {
+        description: 'palms-down wrist curl over a bench,
+        muscleGroup: 'forearms
+    },
+    {
+        description: 'palms-up barbell wrist curl over a bench,
+        muscleGroup: 'forearms
+    },
+    {
+        description: 'palms-up dumbbell wrist curl over a bench,
+        muscleGroup: 'forearms
+    },
+    {
+        description: 'parallel bar dip,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'pelvic tilt into bridge,
+        muscleGroup: 'lower back
+    },
+    {
+        description: 'peroneals stretch,
+        muscleGroup: 'calves
+    },
+    {
+        description: 'peroneals-smr,
+        muscleGroup: 'calves
+    },
+    {
+        description: 'physioball hip bridge,
+        muscleGroup: 'glutes
+    },
+    {
+        description: 'pin presses,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'piriformis-smr,
+        muscleGroup: 'glutes
+    },
+    {
+        description: 'plank,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'plank with twist,
+        muscleGroup: '
+    },
+    {
+        description: 'plate pinch,
+        muscleGroup: 'forearms
+    },
+    {
+        description: 'plate twist,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'platform hamstring slides,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'plie dumbbell squat,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'plyo kettlebell pushups,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'plyo push-up,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'posterior tibialis stretch,
+        muscleGroup: 'calves
+    },
+    {
+        description: 'power clean,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'power clean from blocks,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'power jerk,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'power partials,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'power snatch,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'power snatch from blocks,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'power stairs,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'preacher curl,
+        muscleGroup: 'biceps
+    },
+    {
+        description: 'preacher hammer dumbbell curl,
+        muscleGroup: 'biceps
+    },
+    {
+        description: 'press sit-up,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'prone manual hamstring,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'prowler sprint,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'pull through,
+        muscleGroup: 'glutes
+    },
+    {
+        description: 'pullups,
+        muscleGroup: 'lats
+    },
+    {
+        description: 'push press,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'push press - behind the neck,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'push up to side plank,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'push-up wide,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'push-ups - close triceps position,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'push-ups with feet elevated,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'push-ups with feet on an exercise ball,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'pushups,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'pushups (close and wide hand positions),
+        muscleGroup: 'chest
+    },
+    {
+        description: 'pyramid,
+        muscleGroup: 'lower back
+    },
+    {
+        description: 'quad stretch,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'quadriceps-smr,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'quick leap,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'rack delivery,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'rack pull with bands,
+        muscleGroup: 'lower back
+    },
+    {
+        description: 'rack pulls,
+        muscleGroup: 'lower back
+    },
+    {
+        description: 'rear leg raises,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'recumbent bike,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'return push from stance,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'reverse band bench press,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'reverse band box squat,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'reverse band deadlift,
+        muscleGroup: 'lower back
+    },
+    {
+        description: 'reverse band power squat,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'reverse band sumo deadlift,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'reverse barbell curl,
+        muscleGroup: 'biceps
+    },
+    {
+        description: 'reverse barbell preacher curls,
+        muscleGroup: 'biceps
+    },
+    {
+        description: 'reverse cable curl,
+        muscleGroup: 'biceps
+    },
+    {
+        description: 'reverse crunch,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'reverse flyes,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'reverse flyes with external rotation,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'reverse grip bent-over rows,
+        muscleGroup: 'middle back
+    },
+    {
+        description: 'reverse grip triceps pushdown,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'reverse hyperextension,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'reverse machine flyes,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'reverse plate curls,
+        muscleGroup: 'biceps
+    },
+    {
+        description: 'reverse triceps bench press,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'rhomboids-smr,
+        muscleGroup: 'middle back
+    },
+    {
+        description: 'rickshaw carry,
+        muscleGroup: 'forearms
+    },
+    {
+        description: 'rickshaw deadlift,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'ring dips,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'rocket jump,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'rocking standing calf raise,
+        muscleGroup: 'calves
+    },
+    {
+        description: 'rocky pull-ups/pulldowns,
+        muscleGroup: 'lats
+    },
+    {
+        description: 'romanian deadlift,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'romanian deadlift from deficit,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'rope climb,
+        muscleGroup: 'lats
+    },
+    {
+        description: 'rope crunch,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'rope jumping,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'rope straight-arm pulldown,
+        muscleGroup: 'lats
+    },
+    {
+        description: 'round the world shoulder stretch,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'rowing,
+        description: 'muscleGroup: 'stationary,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'runner's stretch,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'running,
+        description: 'muscleGroup: 'treadmill,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'russian twist,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'sandbag load,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'scapular pull-up,
+        muscleGroup: 'traps
+    },
+    {
+        description: 'scissor kick,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'scissors jump,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'seated band hamstring curl,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'seated barbell military press,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'seated barbell twist,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'seated bent-over one-arm dumbbell triceps extension,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'seated bent-over rear delt raise,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'seated bent-over two-arm dumbbell triceps extension,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'seated biceps,
+        muscleGroup: 'biceps
+    },
+    {
+        description: 'seated cable rows,
+        muscleGroup: 'middle back
+    },
+    {
+        description: 'seated cable shoulder press,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'seated calf raise,
+        muscleGroup: 'calves
+    },
+    {
+        description: 'seated calf stretch,
+        muscleGroup: 'calves
+    },
+    {
+        description: 'seated close-grip concentration barbell curl,
+        muscleGroup: 'biceps
+    },
+    {
+        description: 'seated dumbbell curl,
+        muscleGroup: 'biceps
+    },
+    {
+        description: 'seated dumbbell inner biceps curl,
+        muscleGroup: 'biceps
+    },
+    {
+        description: 'seated dumbbell palms-down wrist curl,
+        muscleGroup: 'forearms
+    },
+    {
+        description: 'seated dumbbell palms-up wrist curl,
+        muscleGroup: 'forearms
+    },
+    {
+        description: 'seated dumbbell press,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'seated flat bench leg pull-in,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'seated floor hamstring stretch,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'seated front deltoid,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'seated glute,
+        muscleGroup: 'glutes
+    },
+    {
+        description: 'seated good mornings,
+        muscleGroup: 'lower back
+    },
+    {
+        description: 'seated hamstring,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'seated hamstring and calf stretch,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'seated head harness neck resistance,
+        muscleGroup: 'neck
+    },
+    {
+        description: 'seated leg curl,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'seated leg tucks,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'seated one-arm cable pulley rows,
+        muscleGroup: 'middle back
+    },
+    {
+        description: 'seated one-arm dumbbell palms-down wrist curl,
+        muscleGroup: 'forearms
+    },
+    {
+        description: 'seated one-arm dumbbell palms-up wrist curl,
+        muscleGroup: 'forearms
+    },
+    {
+        description: 'seated overhead stretch,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'seated palm-up barbell wrist curl,
+        muscleGroup: 'forearms
+    },
+    {
+        description: 'seated palms-down barbell wrist curl,
+        muscleGroup: 'forearms
+    },
+    {
+        description: 'seated side lateral raise,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'seated triceps press,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'seated two-arm palms-up low-pulley wrist curl,
+        muscleGroup: 'forearms
+    },
+    {
+        description: 'see-saw press (alternating side press),
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'shotgun row,
+        muscleGroup: 'lats
+    },
+    {
+        description: 'shoulder circles,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'shoulder press - with bands,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'shoulder raise,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'shoulder stretch,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'side bridge,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'side hop-sprint,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'side jackknife,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'side lateral raise,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'side laterals to front raise,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'side leg raises,
+        muscleGroup: 'adductors
+    },
+    {
+        description: 'side lying groin stretch,
+        muscleGroup: 'adductors
+    },
+    {
+        description: 'side neck stretch,
+        muscleGroup: 'neck
+    },
+    {
+        description: 'side standing long jump,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'side to side box shuffle,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'side to side chins,
+        muscleGroup: 'lats
+    },
+    {
+        description: 'side wrist pull,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'side-lying floor stretch,
+        muscleGroup: 'lats
+    },
+    {
+        description: 'single dumbbell raise,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'single leg butt kick,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'single leg glute bridge,
+        muscleGroup: 'glutes
+    },
+    {
+        description: 'single leg push-off,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'single-arm cable crossover,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'single-arm linear jammer,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'single-arm push-up,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'single-cone sprint drill,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'single-leg high box squat,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'single-leg hop progression,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'single-leg lateral hop,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'single-leg leg extension,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'single-leg stride jump,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'sit squats,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'sit-up,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'skating,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'sled drag - harness,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'sled overhead backward walk,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'sled overhead triceps extension,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'sled push,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'sled reverse flye,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'sled row,
+        muscleGroup: 'middle back
+    },
+    {
+        description: 'sledgehammer swings,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'smith incline shoulder raise,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'smith machine behind the back shrug,
+        muscleGroup: 'traps
+    },
+    {
+        description: 'smith machine bench press,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'smith machine bent over row,
+        muscleGroup: 'middle back
+    },
+    {
+        description: 'smith machine calf raise,
+        muscleGroup: 'calves
+    },
+    {
+        description: 'smith machine close-grip bench press,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'smith machine decline press,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'smith machine hang power clean,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'smith machine hip raise,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'smith machine incline bench press,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'smith machine leg press,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'smith machine one-arm upright row,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'smith machine overhead shoulder press,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'smith machine pistol squat,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'smith machine reverse calf raises,
+        muscleGroup: 'calves
+    },
+    {
+        description: 'smith machine shrug,
+        muscleGroup: 'traps
+    },
+    {
+        description: 'smith machine squat,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'smith machine stiff-legged deadlift,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'smith machine upright row,
+        muscleGroup: 'traps
+    },
+    {
+        description: 'smith single-leg split squat,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'snatch,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'snatch balance,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'snatch deadlift,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'snatch from blocks,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'snatch pull,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'snatch shrug,
+        muscleGroup: 'traps
+    },
+    {
+        description: 'speed band overhead triceps,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'speed band pushdown,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'speed box squat,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'speed squats,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'spell caster,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'spider crawl,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'spider curl,
+        muscleGroup: 'biceps
+    },
+    {
+        description: 'spinal stretch,
+        muscleGroup: 'middle back
+    },
+    {
+        description: 'split clean,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'split jerk,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'split jump,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'split snatch,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'split squat with dumbbells,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'split squats,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'squat jerk,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'squat with bands,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'squat with chains,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'squat with plate movers,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'squats - with bands,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'stairmaster,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'standing alternating dumbbell press,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'standing barbell calf raise,
+        muscleGroup: 'calves
+    },
+    {
+        description: 'standing barbell press behind neck,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'standing bent-over one-arm dumbbell triceps extension,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'standing bent-over two-arm dumbbell triceps extension,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'standing biceps cable curl,
+        muscleGroup: 'biceps
+    },
+    {
+        description: 'standing biceps stretch,
+        muscleGroup: 'biceps
+    },
+    {
+        description: 'standing bradford press,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'standing cable chest press,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'standing cable lift,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'standing cable wood chop,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'standing calf raises,
+        muscleGroup: 'calves
+    },
+    {
+        description: 'standing concentration curl,
+        muscleGroup: 'biceps
+    },
+    {
+        description: 'standing dumbbell calf raise,
+        muscleGroup: 'calves
+    },
+    {
+        description: 'standing dumbbell press,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'standing dumbbell reverse curl,
+        muscleGroup: 'biceps
+    },
+    {
+        description: 'standing dumbbell straight-arm front delt raise above head,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'standing dumbbell triceps extension,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'standing dumbbell upright row,
+        muscleGroup: 'traps
+    },
+    {
+        description: 'standing elevated quad stretch,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'standing front barbell raise over head,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'standing gastrocnemius calf stretch,
+        muscleGroup: 'calves
+    },
+    {
+        description: 'standing hamstring and calf stretch,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'standing hip circles,
+        muscleGroup: 'abductors
+    },
+    {
+        description: 'standing hip flexors,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'standing inner-biceps curl,
+        muscleGroup: 'biceps
+    },
+    {
+        description: 'standing lateral stretch,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'standing leg curl,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'standing long jump,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'standing low-pulley deltoid raise,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'standing low-pulley one-arm triceps extension,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'standing military press,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'standing olympic plate hand squeeze,
+        muscleGroup: 'forearms
+    },
+    {
+        description: 'standing one-arm cable curl,
+        muscleGroup: 'biceps
+    },
+    {
+        description: 'standing one-arm dumbbell curl over incline bench,
+        muscleGroup: 'biceps
+    },
+    {
+        description: 'standing one-arm dumbbell triceps extension,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'standing overhead barbell triceps extension,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'standing palm-in one-arm dumbbell press,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'standing palms-in dumbbell press,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'standing palms-up barbell behind the back wrist curl,
+        muscleGroup: 'forearms
+    },
+    {
+        description: 'standing pelvic tilt,
+        muscleGroup: 'lower back
+    },
+    {
+        description: 'standing rope crunch,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'standing soleus and achilles stretch,
+        muscleGroup: 'calves
+    },
+    {
+        description: 'standing toe touches,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'standing towel triceps extension,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'standing two-arm overhead throw,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'star jump,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'step mill,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'step-up with knee raise,
+        muscleGroup: 'glutes
+    },
+    {
+        description: 'stiff leg barbell good morning,
+        muscleGroup: 'lower back
+    },
+    {
+        description: 'stiff-legged barbell deadlift,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'stiff-legged dumbbell deadlift,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'stomach vacuum,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'straight bar bench mid rows,
+        muscleGroup: 'middle back
+    },
+    {
+        description: 'straight raises on incline bench,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'straight-arm dumbbell pullover,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'straight-arm pulldown,
+        muscleGroup: 'lats
+    },
+    {
+        description: 'stride jump crossover,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'sumo deadlift,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'sumo deadlift with bands,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'sumo deadlift with chains,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'superman,
+        muscleGroup: 'lower back
+    },
+    {
+        description: 'supine chest throw,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'supine one-arm overhead throw,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'supine two-arm overhead throw,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'suspended push-up,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'suspended reverse crunch,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'suspended row,
+        muscleGroup: 'middle back
+    },
+    {
+        description: 'suspended split squat,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 't-bar row with handle,
+        muscleGroup: 'middle back
+    },
+    {
+        description: 'tate press,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'the straddle,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'thigh abductor,
+        muscleGroup: 'abductors
+    },
+    {
+        description: 'thigh adductor,
+        muscleGroup: 'adductors
+    },
+    {
+        description: 'tire flip,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'toe touchers,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'torso rotation,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'trail running/walking,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'trap bar deadlift,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'tricep dumbbell kickback,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'tricep side stretch,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'triceps overhead extension with rope,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'triceps pushdown,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'triceps pushdown - rope attachment,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'triceps pushdown - v-bar attachment,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'triceps stretch,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'tuck crunch,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'two-arm dumbbell preacher curl,
+        muscleGroup: 'biceps
+    },
+    {
+        description: 'two-arm kettlebell clean,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'two-arm kettlebell jerk,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'two-arm kettlebell military press,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'two-arm kettlebell row,
+        muscleGroup: 'middle back
+    },
+    {
+        description: 'underhand cable pulldowns,
+        muscleGroup: 'lats
+    },
+    {
+        description: 'upper back stretch,
+        muscleGroup: 'middle back
+    },
+    {
+        description: 'upper back-leg grab,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'upright barbell row,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'upright cable row,
+        muscleGroup: 'traps
+    },
+    {
+        description: 'upright row - with bands,
+        muscleGroup: 'traps
+    },
+    {
+        description: 'upward stretch,
+        muscleGroup: 'shoulders
+    },
+    {
+        description: 'v-bar pulldown,
+        muscleGroup: 'lats
+    },
+    {
+        description: 'v-bar pullup,
+        muscleGroup: 'lats
+    },
+    {
+        description: 'vertical swing,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'walking,
+        description: 'muscleGroup: 'treadmill,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'weighted ball hyperextension,
+        muscleGroup: 'lower back
+    },
+    {
+        description: 'weighted ball side bend,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'weighted bench dip,
+        muscleGroup: 'triceps
+    },
+    {
+        description: 'weighted crunches,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'weighted jump squat,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'weighted pull ups,
+        muscleGroup: 'lats
+    },
+    {
+        description: 'weighted sissy squat,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'weighted sit-ups - with bands,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'weighted squat,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'wide stance barbell squat,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'wide stance stiff legs,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'wide-grip barbell bench press,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'wide-grip decline barbell bench press,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'wide-grip decline barbell pullover,
+        muscleGroup: 'chest
+    },
+    {
+        description: 'wide-grip lat pulldown,
+        muscleGroup: 'lats
+    },
+    {
+        description: 'wide-grip pulldown behind the neck,
+        muscleGroup: 'lats
+    },
+    {
+        description: 'wide-grip rear pull-up,
+        muscleGroup: 'lats
+    },
+    {
+        description: 'wide-grip standing barbell curl,
+        muscleGroup: 'biceps
+    },
+    {
+        description: 'wind sprints,
+        muscleGroup: 'abdominals
+    },
+    {
+        description: 'windmills,
+        muscleGroup: 'abductors
+    },
+    {
+        description: 'world's greatest stretch,
+        muscleGroup: 'hamstrings
+    },
+    {
+        description: 'wrist circles,
+        muscleGroup: 'forearms
+    },
+    {
+        description: 'wrist roller,
+        muscleGroup: 'forearms
+    },
+    {
+        description: 'wrist rotations with straight bar,
+        muscleGroup: 'forearms
+    },
+    {
+        description: 'yoke walk,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'zercher squats,
+        muscleGroup: 'quadriceps
+    },
+    {
+        description: 'zottman curl,
+        muscleGroup: 'biceps
+    },
+    {
+        description: 'zottman preacher curl',
+        muscleGroup: 'biceps'
+    }
+]
