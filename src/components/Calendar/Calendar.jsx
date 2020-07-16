@@ -24,7 +24,7 @@ class Calendar extends Component {
             <div>
                 {this.renderHeader()}
                 {this.renderDays()}
-                {this.}
+                {this.renderCells()}
             </div>
         )
     }
