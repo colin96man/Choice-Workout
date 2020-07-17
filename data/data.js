@@ -1,4 +1,4 @@
-[
+module.exports = [
     { 
         description: 'ab crunch machine',
         muscleGroup: 'abdominals'
