@@ -54,7 +54,7 @@ class App extends Component {
             <HomePage />
           } />
           <Route exact path='/add' render={() =>
-            <AddWorkoutPage muscleGroupsFromParent={this.state.muscleGroups}/>
+            <AddWorkoutPage muscleGroupsFromParent={this.state.muscleGroups} workoutsFromParent={this.state.workouts}/>
           } />
           <Route exact path='/signup' render={({ history }) =>
             <SignupPage history={history} handleSignupOrLogin={this.handleSignupOrLogin} />

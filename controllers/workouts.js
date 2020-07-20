@@ -6,7 +6,7 @@ module.exports = {
 
 async function index(req, res) {
     try{
-        const workouts = await Workout.find({muscleGroup: req.muscleGroup._id});
+        const workouts = await Workout.find({});
         res.status(200).json(workouts);
     }
     catch(err){

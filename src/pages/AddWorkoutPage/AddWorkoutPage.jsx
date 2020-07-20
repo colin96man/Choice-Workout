@@ -6,10 +6,16 @@ class AddWorkoutPage extends Component {
     state = {
         muscleGroup: '',
         workouts: [],
+        filteredWorkouts: []
     }
 
     handleChange = e => {
-
+        const filteredWorkouts = this.props.workoutsFromParent.filter((workout) => {
+            return workout.muscleGroup === e.target.value
+        })
+        this.setState({
+            filteredWorkouts
+        })
     }
 
     handleSubmit = e => {
@@ -26,13 +32,14 @@ class AddWorkoutPage extends Component {
                 <form>
                     <div>
                         <label>Muscle Group (required)</label><br/>
-                        <select name="muscleGroup" value={this.state.muscleGroup} onChange={this.handleChange}>
+                        <select name="muscleGroup" onChange={this.handleChange}>
                             <option>Choose a Muscle Group</option>
-                            {this.props.muscleGroupsFromParent.map((muscleGroup, idx) => <option key={muscleGroup._id} value={muscleGroup.name}>{muscleGroup.name}</option>)}
-                        </select>
+                            {this.props.muscleGroupsFromParent.map((muscleGroup, idx) => <option key={muscleGroup._id} value={muscleGroup._id}>{muscleGroup.name}</option>)}
+                        </select><br/>
                         <label>Workouts (required)</label><br/>
-                        <select name="workouts" value={this.state.workouts} onChange={this.handleChange}>
+                        <select name="workouts" onChange={this.handleChange}>
                             <option>Choose Your Workouts</option>
+                            {this.state.filteredWorkouts.map((workout, idx) => <option key={workout._id} value={workout._id}>{workout.description}</option>)}
                         </select>
                     </div>
                 </form>

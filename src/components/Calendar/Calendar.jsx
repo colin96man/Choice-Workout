@@ -89,7 +89,7 @@ class Calendar extends Component {
     onDateClick = day => {
         this.setState({
             selectedDate: day
-        });
+        })
     }
 
     nextMonth = () => {

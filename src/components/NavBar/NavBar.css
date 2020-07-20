@@ -1,4 +1,7 @@
 .nav {
     background: #131D47;
+}
+
+.nav a{
     color: white;
 }

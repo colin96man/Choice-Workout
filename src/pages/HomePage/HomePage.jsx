@@ -3,6 +3,11 @@ import Calendar from '../../components/Calendar/Calendar';
 import './HomePage.css';
 
 class HomePage extends Component {
+    state = {
+        currentMonth: new Date(),
+        selectedDate: new Date()
+    }
+
     render() {
         return(
             <div>
