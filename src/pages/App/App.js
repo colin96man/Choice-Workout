@@ -6,11 +6,15 @@ import AddWorkoutPage from '../AddWorkoutPage/AddWorkoutPage';
 import SignupPage from '../SignupPage/SignupPage';
 import LoginPage from '../LoginPage/LoginPage';
 import userService from '../../utils/userService';
+import * as muscleGroupService from '../../utils/muscleGroupService';
+import * as workoutsService from '../../utils/workoutsService';
 import './App.css';
 import NavBar from '../../components/NavBar/NavBar';
 
 class App extends Component {
   state = {
+    muscleGroups: [],
+    workouts: [],
     user: userService.getUser()
   }
 
@@ -27,6 +31,15 @@ class App extends Component {
     });
   }
 
+  async componentDidMount() {
+    const muscleGroupsFromAPI = await muscleGroupService.getAllMuscleGroups();
+    const workoutsFromAPI = await workoutsService.getAllWorkouts();
+    this.setState({
+      muscleGroups: muscleGroupsFromAPI,
+      workouts: workoutsFromAPI
+    })
+  }
+
   render() {
     return (
       <div className="App">
@@ -41,7 +54,7 @@ class App extends Component {
             <HomePage />
           } />
           <Route exact path='/add' render={() =>
-            <AddWorkoutPage />
+            <AddWorkoutPage muscleGroupsFromParent={this.state.muscleGroups}/>
           } />
           <Route exact path='/signup' render={({ history }) =>
             <SignupPage history={history} handleSignupOrLogin={this.handleSignupOrLogin} />
