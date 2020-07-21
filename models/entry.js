@@ -3,10 +3,10 @@ const Schema = mongoose.Schema;
 
 const entrySchema = new Schema({
     date: Date,
-    workout: {
+    workouts: [{
         type: Schema.Types.ObjectId,
         ref: 'Workout'
-    },
+    }],
     user: {
         type: Schema.Types.ObjectId,
         ref: 'User'

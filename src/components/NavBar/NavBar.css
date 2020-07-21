@@ -1,7 +1,14 @@
 .nav {
     background: #131D47;
+    padding: 25px;
 }
 
 .nav a{
     color: white;
+    margin-bottom: 50px;
+}
+
+.nav-img{
+    width: 40px;
+    margin-left: 446px;
 }

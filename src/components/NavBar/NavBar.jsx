@@ -8,7 +8,7 @@ const NavBar = (props) => {
             &nbsp;&nbsp;&nbsp;
             <Link to='/home'>HOME</Link>
             &nbsp;&nbsp;&nbsp;
-            <Link to='/add'>ADD</Link>
+            <Link to='/workouts'>WORKOUTS</Link>
             &nbsp;&nbsp;&nbsp;
             <Link to='/' onClick={props.handleLogout}>LOG OUT</Link>
         </div>
