@@ -87,7 +87,7 @@ class App extends Component {
             />
           } />
           <Route exact path='/workouts' render={() =>
-            <WorkoutPage />
+            <WorkoutPage entriesFromParent={this.state.entries} getAllEntries={this.getAllEntries}/>
           } />
           <Route exact path='/signup' render={({ history }) =>
             <SignupPage history={history} handleSignupOrLogin={this.handleSignupOrLogin} />
