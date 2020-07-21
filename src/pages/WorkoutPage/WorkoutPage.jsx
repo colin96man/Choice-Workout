@@ -4,7 +4,8 @@ class WorkoutPage extends Component {
     render() {
         return (
             <div>
-                <h1>This is the workout page</h1>
+                <h1>My Workouts</h1>
+                
             </div>
         )
     }
