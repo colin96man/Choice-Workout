@@ -39,13 +39,13 @@ class SignupForm extends Component {
     render() {
         return(
             <div>
-                <h3>Sign Up</h3>
+                <h2>Sign Up</h2>
                 <form onSubmit={this.handleSubmit}>
                     <input type="text" placeholder="Name" value={this.state.name} name="name" onChange={this.handleChange} /><br/>
                     <input type="email" placeholder="Email" value={this.state.email} name="email" onChange={this.handleChange} /><br/>
                     <input type="password" placeholder="Password" value={this.state.password} name="password" onChange={this.handleChange} /><br/>
                     <input type="password" placeholder="Confirm Password" value={this.state.passwordConf} name="passwordConf" onChange={this.handleChange} /><br/>
-                    <button disabled={this.isFormInvalid()}>Sign Up</button>
+                    <button disabled={this.isFormInvalid()}>Sign Up</button>&nbsp;&nbsp;&nbsp;&nbsp;
                     <Link to='/'>Cancel</Link>
                 </form>
             </div>

@@ -3,9 +3,35 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    background-color: #131D47;
+    height: 80vh;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid #5DDADB;
+}
+
+.header{
+    background-color: #CAC9C9;
+    padding: 30px;
 }
 
 .sign-in-img {
     background-repeat: no-repeat;
     max-width: 500px;
-  }
+}
+
+.log-btn {
+    padding: 10px 80px 10px 80px;
+}
+
+.sign-btn{
+    padding: 10px 75px 10px 75px;
+}
+
+.log-btn, .sign-btn{
+    background-image: linear-gradient(45deg, #1a8fff 0%,#131D47 40%);
+    color: white;
+    border: 2px solid rgb(245, 227, 227);
+    border-radius: 5px;
+}

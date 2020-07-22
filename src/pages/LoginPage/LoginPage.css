@@ -4,4 +4,18 @@
     justify-content: center;
     align-items: center;
     margin-bottom: 50px;
+    height: 100vh;
+    background-image: linear-gradient(45deg, #131D47 5%,#1a8fff  40%);
+}
+
+.LoginPage a{
+    color: #131D47;
+}
+
+.LoginPage button{
+    padding: 10px;
+}
+
+.h2-log{
+    color: #131D47;
 }

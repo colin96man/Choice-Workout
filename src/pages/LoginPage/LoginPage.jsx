@@ -32,11 +32,12 @@ class LoginPage extends Component {
 
     render() {
         return(
-            <div>
+            <div className='LoginPage'>
+                <h2 className='h2-log'>Log In</h2>
                 <form onSubmit={this.handleSubmit}>
                     <input type="email" placeholder="Email" value={this.state.email} name="email" onChange={this.handleChange} /><br/>
                     <input type="password" placeholder="Password" value={this.state.pw} name="pw" onChange={this.handleChange} /><br/>
-                    <button>Log In</button>
+                    <button>Log In</button>&nbsp;&nbsp;&nbsp;&nbsp;
                     <Link to='/'>Cancel</Link>
                 </form>
             </div>

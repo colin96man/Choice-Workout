@@ -4,4 +4,24 @@
     justify-content: center;
     align-items: center;
     margin-bottom: 50px;
+    background-image: linear-gradient(45deg, #1a8fff 5%,#131D47 40%);
+    height: 100vh;
+}
+
+.SignupPage a{
+    color: red;
+}
+
+.SignupPage button{
+    padding: 10px;
+}
+
+h2{
+    font-size: 50px;
+    color: #1a8fff;
+}
+
+input{
+    margin-bottom: 10px;
+    padding: 10px 0 10px 0
 }

@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Route, Switch } from 'react-router-dom';
+import { Route, Switch, Redirect } from 'react-router-dom';
 import LandingPage from '../LandingPage/LandingPage';
 import HomePage from '../HomePage/HomePage';
 import WorkoutsListPage from '../WorkoutsListPage/WorkoutsListPage';
@@ -82,22 +82,31 @@ class App extends Component {
             <LandingPage />
           } />
           <Route exact path='/home' render={({ history }) =>
+            userService.getUser() ?
             <HomePage history={history} handleSelectedDate={this.handleSelectedDate} />
+            :
+            <Redirect to='/'/>
           } />
           <Route exact path='/add' render={() =>
+            userService.getUser() ?
             <AddWorkoutPage
               muscleGroupsFromParent={this.state.muscleGroups}
               workoutsFromParent={this.state.workouts}
               selectedDate={this.state.selectedDate}
               handleAddWorkoutEntry={this.handleAddWorkoutEntry}
             />
+            :
+            <Redirect to='/'/>
           } />
           <Route exact path='/workouts' render={() =>
+            userService.getUser() ?
             <WorkoutsListPage
               entriesFromParent={this.state.entries}
               getAllEntries={this.getAllEntries}
               handleDeleteEntry={this.handleDeleteEntry}
             />
+            :
+            <Redirect to='/'/>
           } />
           <Route exact path='/signup' render={({ history }) =>
             <SignupPage history={history} handleSignupOrLogin={this.handleSignupOrLogin} />
