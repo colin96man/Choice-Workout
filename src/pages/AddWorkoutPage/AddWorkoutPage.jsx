@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import NavBar from '../../components/NavBar/NavBar';
 import './AddWorkoutPage.css';
 
 class AddWorkoutPage extends Component {
@@ -18,7 +17,6 @@ class AddWorkoutPage extends Component {
     }
 
     handleWorkoutSelect = e => {
-        console.log(e.target.value, '<---------- target')
         this.setState({
             formData: {selectedWorkouts: [...this.state.formData.selectedWorkouts, e.target.value]}
         })
@@ -32,10 +30,7 @@ class AddWorkoutPage extends Component {
     render() {
         return(
             <div>
-                <header>
-                    <NavBar />
-                </header>
-                    <h1>Add Workout</h1>
+                <h1>Add Workout</h1>
                 <form onSubmit={this.handleSubmit}>
                     <div className="form">
                         <label>Muscle Group (required)</label><br/>

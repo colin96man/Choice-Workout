@@ -8,7 +8,6 @@ module.exports = {
 }
 
 async function signup(req, res) {
-    console.log(req.body, '<------ signup controller');
     const user = new User(req.body);
     try {
         await user.save();

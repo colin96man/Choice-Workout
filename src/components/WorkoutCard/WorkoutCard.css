@@ -1,0 +1,41 @@
+.wo-card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+    border: 3px solid #5DDADB;
+    border-radius: 15px;
+    max-width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #131D47;
+}
+
+.card-head{
+    color: #CAC9C9;
+}
+
+.card-date{
+    color: #5DDADB;
+}
+
+.card-li{
+    color: white;
+}
+
+.edit-btn{
+    margin-bottom: 10px;
+    background-color: #8d8d8d;
+    border-radius: 5px;
+}
+
+.edit-btn a{
+    color: #5DDADB;
+    text-decoration: none;
+}
+
+.del-btn{
+    background-color: rgb(243, 56, 56);
+    border-radius: 5px;
+}

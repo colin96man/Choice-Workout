@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Route, Switch } from 'react-router-dom';
 import LandingPage from '../LandingPage/LandingPage';
 import HomePage from '../HomePage/HomePage';
-import WorkoutPage from '../WorkoutPage/WorkoutPage';
+import WorkoutsListPage from '../WorkoutsListPage/WorkoutsListPage';
 import AddWorkoutPage from '../AddWorkoutPage/AddWorkoutPage';
 import SignupPage from '../SignupPage/SignupPage';
 import LoginPage from '../LoginPage/LoginPage';
@@ -43,10 +43,16 @@ class App extends Component {
   }
 
   handleAddWorkoutEntry = async newEntryData => {
-    console.log(newEntryData, '<------- newEntryData');
     newEntryData.date = this.state.selectedDate
     await entryService.createWorkoutEntry(newEntryData);
     this.getAllEntries();
+  }
+
+  handleDeleteEntry = async idOfEntryToDelete => {
+    await entryService.deleteEntry(idOfEntryToDelete);
+    this.setState(state => ({
+      entries: state.entries.filter(entry => entry._id !== idOfEntryToDelete)
+    }), () => this.props.history.push('/workouts'));
   }
 
   handleSelectedDate = selectedDate => {
@@ -87,7 +93,11 @@ class App extends Component {
             />
           } />
           <Route exact path='/workouts' render={() =>
-            <WorkoutPage entriesFromParent={this.state.entries} getAllEntries={this.getAllEntries}/>
+            <WorkoutsListPage
+              entriesFromParent={this.state.entries}
+              getAllEntries={this.getAllEntries}
+              handleDeleteEntry={this.handleDeleteEntry}
+            />
           } />
           <Route exact path='/signup' render={({ history }) =>
             <SignupPage history={history} handleSignupOrLogin={this.handleSignupOrLogin} />
